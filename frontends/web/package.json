@@ -23,7 +23,7 @@
     "vite-plugin-checker": "^0.8.0",
     "vite-plugin-eslint": "^1.8.1",
     "vite-tsconfig-paths": "^5.1.0",
-    "vitest": "^2.1.4"
+    "vitest": "^2.1.9"
   },
   "dependencies": {
     "@walletconnect/jsonrpc-types": "1.0.4",
