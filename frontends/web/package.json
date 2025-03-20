@@ -30,7 +30,7 @@
     "@walletconnect/types": "2.13.1",
     "@walletconnect/web3wallet": "1.12.1",
     "flag-icons": "7.2.3",
-    "i18next": "23.11.5",
+    "i18next": "23.16.8",
     "lightweight-charts": "4.1.4",
     "qr-scanner": "1.4.2",
     "react": "18.3.1",
